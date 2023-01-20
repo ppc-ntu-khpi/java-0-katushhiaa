@@ -1,15 +1,12 @@
 ## Завдання 1. Створення та запуск першої програми (сорочки)
-Task1.1
+**Task1.1**
 
-На першому скріншоті зображено виконання програми тільки но скопійованої з GitHub. Як можна побачити все у нас працює як треба
+На першому скріншоті зображено виконання програми тільки но скопійованої з GitHub. Як можна побачити все у нас працює як треба.
  
-![alt-текст](https://github.com/ppc-ntu-khpi/java-0-katushhiaa/blob/main/Solution/Task1.1.jpg)
+![alt-текст](https://github.com/ppc-ntu-khpi/java-0-katushhiaa/blob/main/Solution/Task1.1.jpg "Task1.1")
 
-Task1.2
-Далі перед нами стояло завдання змінити опис сорочки, її номер та ціну. І з цим завданням я впорлась, результат можна побачити на скріншоті
+**Task1.2**
 
-![](https://github.com/ppc-ntu-khpi/java-0-katushhiaa/blob/main/Solution/Task1.2.jpg)
+Далі перед нами стояло завдання змінити номер сорочки, її опис та вартість довільними значеннями. І з цим завданням я впоралась, результат можна побачити на скріншоті.
 
-
-![](https://github.com/ppc-ntu-khpi/java-0-katushhiaa/blob/main/Solution/Task2.1.jpg)
-![](https://github.com/ppc-ntu-khpi/java-0-katushhiaa/blob/main/Solution/Task2.2.jpg)
+![alt-текстalt-текст](https://github.com/ppc-ntu-khpi/java-0-katushhiaa/blob/main/Solution/Task1.2.jpg "Task1.2")
